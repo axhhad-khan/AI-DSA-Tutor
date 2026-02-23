@@ -1,6 +1,6 @@
 # Disco DSA Tutor - Premium DSA Chat Simulator 💬
 
-NexusChat is a high-performance, aesthetically pleasing chat application built with **Streamlit**. It serves as a demonstration of fundamental Data Structures and Algorithms (DSA) applied to a real-world use case.
+ Disco DSA Tutor is a high-performance, aesthetically pleasing chat application built with **Streamlit**. It serves as a demonstration of fundamental Data Structures and Algorithms (DSA) applied to a real-world use case.
 
 ## ✨ Features
 - **Modern UI**: Dark mode with Glassmorphism and smooth animations.
@@ -30,4 +30,5 @@ NexusChat is a high-performance, aesthetically pleasing chat application built w
 - **Linked List**: Used as the primary data store for chat history to showcase node management.
 - **Stack**: Implements the `Undo` functionality (Last-In-First-Out).
 - **Queue**: Implements message processing simulation (First-In-First-Out).
+
 
